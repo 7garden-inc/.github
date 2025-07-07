@@ -1,7 +1,6 @@
 ---
 name: Issueテンプレート
 about: 概要・背景・完了条件を記入する
-title: "[Feat] "
 ---
 
 ## 背景
